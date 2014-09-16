@@ -1,4 +1,0 @@
-StupidGame
-==========
-
-Its Random
