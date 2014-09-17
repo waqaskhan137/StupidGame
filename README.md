@@ -1,4 +1,4 @@
 StupidGame
 ==========
 
-Its Random
+Its a simple football two players game
